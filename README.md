@@ -12,7 +12,7 @@ Ce site web est une vitrine moderne pour présenter les produits, les réalisati
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - Catalogue des produits avec navigation détaillée
 - Présentation des réalisations professionnelles
@@ -22,7 +22,7 @@ Ce site web est une vitrine moderne pour présenter les produits, les réalisati
 
 ---
 
-## 🚀 Technologies utilisées
+##  Technologies utilisées
 
 - ⚛️ [React](https://reactjs.org/)
 - 🎨 [Tailwind CSS](https://tailwindcss.com/)
@@ -32,10 +32,10 @@ Ce site web est une vitrine moderne pour présenter les produits, les réalisati
 
 ---
 
-💻 Développeuse : Siham Nafie
+   Développeuse : Siham Nafie
 ---
 
-## 📦 Installation et Lancement
+##  Installation et Lancement
 
 ```bash
 # 1. Cloner le dépôt
