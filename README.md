@@ -24,11 +24,11 @@ Ce site web est une vitrine moderne pour présenter les produits, les réalisati
 
 ##  Technologies utilisées
 
-- ⚛️ [React](https://reactjs.org/)
-- 🎨 [Tailwind CSS](https://tailwindcss.com/)
-- 💅 [styled-components](https://styled-components.com/)
-- 🔗 [react-router-dom](https://reactrouter.com/)
-- 📡 [axios](https://axios-http.com/)
+-  [React](https://reactjs.org/)
+-  [Tailwind CSS](https://tailwindcss.com/)
+-  [styled-components](https://styled-components.com/)
+-  [react-router-dom](https://reactrouter.com/)
+-  [axios](https://axios-http.com/)
 
 ---
 
